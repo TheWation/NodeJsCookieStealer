@@ -1,0 +1,19 @@
+{
+    "name": "node-js-cookie-stealer",
+    "version": "1.0.0",
+    "description": "A Node.js app that logs cookie data to a file",
+    "main": "app.js",
+    "dependencies": {
+      "express": "^4.17.2",
+      "luxon": "^2.1.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TheWation/NodeJsCookieStealer.git"
+    },
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "TheWation",
+    "license": "MIT"
+  }
